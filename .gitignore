@@ -1,0 +1,30 @@
+# Data and keys never go in the repo
+data/
+*.db
+*.sqlite
+*.sqlite3
+chroma/
+backups/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+dist/
+build/
+*.egg-info/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
