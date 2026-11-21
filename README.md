@@ -20,3 +20,7 @@ One Python app (API, portal and MCP server) with an encrypted SQLite database an
 ## What must never be committed
 
 No real project names, tenant IDs, web addresses, keys or register content. Settings come from environment values (see `.env.example`), and keys come from a secret store.
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).
