@@ -320,7 +320,7 @@ There is no delete endpoint.
 
 ### 2.8 Errors
 
-Refused writes return a clear reason an agent can act on. For example: "Only a person with the approver role can set Agreed" or "The record changed since version 3; read it again".
+Refused writes return a clear reason an agent can act on. For example: "Only a person can sign off, and only in the portal" or "The record changed since version 3; read it again".
 
 ## 3. Portal
 
